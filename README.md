@@ -49,7 +49,7 @@ VECTORLESS RAG/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Deebyendu/vectorless_rag.git
 cd vectorless-rag
 ```
 
